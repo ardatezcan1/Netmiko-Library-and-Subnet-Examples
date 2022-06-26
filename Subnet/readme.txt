@@ -1,0 +1,1 @@
+A script that will get an IP address from the user, read a file that includes network names and IPv4 subnets, and check if IP supplied by the user is within the range of any of the IP subnets in the file. If an IP subnet match is found, it will be printed out on the screen.
